@@ -18,6 +18,7 @@
     "node-dev": "~2.1.6"
   },
   "dependencies": {
+    "curlrequest": "^1.0.1",
     "koa": "^0.14.0",
     "eventsource": "^1.0.5",
     "koa-parse-json": "^1.0.0",
